@@ -1,0 +1,4 @@
+https://github.com/vieiraroger/bot-instagram-python-selenium/blob/main/main.py
+https://github.com/oliveiradeflavio/python/tree/master/instagrambot
+
+https://stackoverflow.com/questions/32407851/instagram-api-how-can-i-retrieve-the-list-of-people-a-user-is-following-on-ins
